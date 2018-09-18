@@ -4,6 +4,12 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+media_library:
+  name: cloudinary
+  auth_endpoint: /.netlify/cms-media-manager
+  config:
+    cloud_name: erquhart
+    api_key: 293667689287914
 
 collections:
   - name: "blog"
