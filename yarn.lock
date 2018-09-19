@@ -8270,9 +8270,9 @@ netlify-cms-widget-text@^2.0.5:
   dependencies:
     react-textarea-autosize "^5.2.0"
 
-"netlify-cms@https://github.com/erquhart/netlify-cms#netlify-cms-v2.1.1-cloudinary.alpha.3-gitpkg":
-  version "2.1.1-cloudinary.alpha.3"
-  resolved "https://github.com/erquhart/netlify-cms#35fdce67edd94003ffb9222b42bbb08b6dc6c44e"
+"netlify-cms@https://github.com/netlify/netlify-cms#netlify-cms-v2.1.1-cloudinary-alpha.0-gitpkg":
+  version "2.1.1-cloudinary-alpha.0"
+  resolved "https://github.com/netlify/netlify-cms#377f38dfe4ceb60af849b811f194ff53f5fc5fe1"
   dependencies:
     emotion "^9.2.6"
     netlify-cms-backend-bitbucket "^2.0.7"
